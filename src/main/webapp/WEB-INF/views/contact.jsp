@@ -4,10 +4,9 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>Home Page</title>
+<title>Insert title here</title>
 </head>
 <body>
-	<h1>In the Home Page</h1>
-	<h2><a href="http://localhost:8080/SpringMvcDemo/contact">Contact me</a></h2>
+	<h1>In Contact Page</h1>
 </body>
 </html>
