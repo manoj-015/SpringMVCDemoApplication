@@ -4,12 +4,11 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>Home Page</title>
+<title>Insert title here</title>
 </head>
 <body>
-	<h1>In the Home Page</h1>
+	<h1>Help Page</h1>
 	<% String name = (String)request.getAttribute("name"); %>
-	<h2>Name is: <%= name %></h2>
-	<h2><a href="http://localhost:8080/SpringMvcDemo/contact">Contact me</a></h2>
+	<h3>Name: <%= name %></h3>
 </body>
 </html>
